@@ -1,4 +1,4 @@
-unction lbinit() {
+function lbinit() {
  local lb_path=${LINK_BAR_PATH:-"/link_bar"}
  mkdir -p ~"$lb_path"
  touch ~"$lb_path/links"
