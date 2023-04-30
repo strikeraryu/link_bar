@@ -1,4 +1,4 @@
-# LINK_BAR
+# LINK BAR
 Easy to use Terminal-based profile level bookmarking for URLs for developers `(Tested for mac)`
 
 ## Setup
